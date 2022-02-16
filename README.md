@@ -4,7 +4,7 @@
 ```
 python -m SimpleHTTPServer 1234
 ```
-* Now execute the script in another pane *
+Now execute the script in another pane 
 
 ```
 ./cur.sh whoami
