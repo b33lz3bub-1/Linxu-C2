@@ -1,0 +1,4 @@
+
+echo "Connected to the server"
+
+whoami
